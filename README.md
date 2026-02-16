@@ -4,3 +4,4 @@ Reza Rahemi
 MCMC on Reza's equation 
 Rahemi, R., & Li, D. (2015). Variation in electron work function with temperature and its effect on the Young’s modulus of metals. Scripta materialia, 99, 41-44.
 https://www.sciencedirect.com/science/article/abs/pii/S135964621400493X
+<img width="951" height="976" alt="Material-optimization" src="https://github.com/user-attachments/assets/35d4bfd9-6e3a-4030-8678-c1500f0bb1f3" />
